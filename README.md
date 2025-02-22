@@ -1,2 +1,2 @@
-# new-js
-JavaScript Journey
+# JavaScript Journey
+
